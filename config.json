@@ -1,0 +1,12 @@
+{
+    "bbs_name": "My BBS",
+    "sysop_name": "John Doe",
+    "allow_new_users": true,
+    "ascii_folder": "/PATH/TO/amis-ux/text/ascii",
+    "atascii_folder": "/PATH/TO/amis-ux/text/atascii",
+    "ansi_folder": "/PATH/TO/amis-ux/text/ansi",
+    "menus_folder": "/PATH/TO/amis-ux/menus",
+    "executables_folder": "/PATH/TO/amis-ux/command",
+    "sysop_password": "___THIS_NEEDS_TO_GO_AWAY___", 
+    "port_number": 8023
+}
